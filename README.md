@@ -1,27 +1,32 @@
 # Hi, I'm Tushar Chauhan 👋
 
-🎓 Branch: Computer Science Engineering  
-📅 Year: 1st Year 
-🏫 College: VIT Bhopal  
+🎓 B.Tech CSE Student at VIT Bhopal  
+📅 1st Year (Batch: 2025–2029)
+💻 Passionate about Programming & Problem Solving  
 
-💡 I am passionate about learning programming, problem-solving, and building real-world projects.
+---
 
-🚀 Goal: To improve my coding skills and become a skilled software developer.
+## 🚀 About Me
+- 🌱 Currently learning: Python, Prolog, and Machine Learning  
+- 💡 Interested in: Software Development, Artificial Intelligence & Logic Programming  
+- 🎯 Goal: To build strong problem-solving skills and work on real-world projects  
+- ⚡ Fun fact: I enjoy exploring both coding and logical reasoning  
 
-📫 Connect with me:
-- LinkedIn:(https://www.linkedin.com/in/tushar-chauhan-01b80b34b/)
+---
 
-<!--
-**Tushar7902/Tushar7902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
+- Programming Languages: Python, Prolog, C  
+- Tools: Git, GitHub  
+- Core Areas: Problem Solving, Basic DSA, Machine Learning (Beginner)  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 📫 Connect with Me
+- LinkedIn: (https://www.linkedin.com/in/tushar-chauhan-01b80b34b/) 
+- Email: your-email@gmail.com  
+
+---
+
+⭐ *“Consistency is the key to success”*
 -->
