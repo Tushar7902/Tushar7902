@@ -24,7 +24,7 @@
 
 ## 📫 Connect with Me
 - LinkedIn: (https://www.linkedin.com/in/tushar-chauhan-01b80b34b/) 
-- Email: your-email@gmail.com  
+- Email: tusharchauhan9444@gmail.com 
 
 ---
 
